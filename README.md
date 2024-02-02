@@ -1,3 +1,3 @@
 # TEDxIISERTVM
 
-The website can ebe found at https://tedxiisertvm.netlify.app/.
+The website can be found at https://tedxiisertvm.netlify.app/.
